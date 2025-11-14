@@ -1,6 +1,0 @@
-﻿  main.c
-C:\Users\19646\Desktop\BdApiUtil-Killer\main.c(33,10): warning C4133: “函数”: 从“unsigned short [38]”到“const char *const ”的类型不兼容
-C:\Users\19646\Desktop\BdApiUtil-Killer\main.c(95,10): warning C4133: “函数”: 从“char [29]”到“const wchar_t *const ”的类型不兼容
-C:\Users\19646\Desktop\BdApiUtil-Killer\main.c(106,98): warning C4047: “函数”:“LPDWORD”与“DWORD”的间接级别不同
-C:\Users\19646\Desktop\BdApiUtil-Killer\main.c(106,98): warning C4024: “DeviceIoControl”: 形参和实参 7 的类型不同
-  BdApiUtil-Killer.vcxproj -> C:\Users\19646\Desktop\BdApiUtil-Killer\x64\Debug\BdApiUtil-Killer.exe
