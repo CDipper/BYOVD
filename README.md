@@ -6,3 +6,5 @@
 
 - BdApiUtil（CVE-2024-51324）
 - K7RKScan（ CVE-2025-1055）
+- SKT64 
+- RTCore64（CVE-2024-1460）
