@@ -1,6 +1,6 @@
 # CVE-2024-51324
 
-前两天看到微步发的文章（https://mp.weixin.qq.com/s/d79eCU9UikVDiLpkafafuQ），一个银狐利用了百度的一个漏洞驱动。刚好最近也在学windows kernel，就分析了一下这个驱动，写一下EXP。当然这个驱动已经被很多杀软拉黑了，主要就是学下驱动EXP编写。
+前两天看到微步发的文章 （https://mp.weixin.qq.com/s/d79eCU9UikVDiLpkafafuQ）， 一个银狐利用了百度的一个漏洞驱动。刚好最近也在学windows kernel，就分析了一下这个驱动，写一下EXP。当然这个驱动已经被很多杀软拉黑了，主要就是学下驱动EXP编写。
 
 ![8f2799ed6ed1c3b2365cd4573f301834](README.assets/8f2799ed6ed1c3b2365cd4573f301834.png)
 
